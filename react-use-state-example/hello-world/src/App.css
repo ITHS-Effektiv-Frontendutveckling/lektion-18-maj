@@ -1,0 +1,10 @@
+.App-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App-list {
+  list-style-type: none;
+}
